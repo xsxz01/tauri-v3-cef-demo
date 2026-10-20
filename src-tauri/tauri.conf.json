@@ -12,7 +12,7 @@
   "app": {
     "windows": [
       {
-        "title": "光影画廊 · Tauri v3 CEF",
+        "title": "shadcn/ui 组件展厅",
         "width": 1280,
         "height": 860,
         "minWidth": 800,
